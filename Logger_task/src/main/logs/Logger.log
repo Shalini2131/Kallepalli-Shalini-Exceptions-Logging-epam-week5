@@ -1,0 +1,17 @@
+2020-03-07 00:38:31 INFO  App:16 - Enter the principal amount: 
+21
+2020-03-07 00:38:42 INFO  App:18 - Enter the rate: 
+1
+2020-03-07 00:38:45 INFO  App:20 - Enter period of time: 
+3
+2020-03-07 00:38:47 INFO  App:22 - Enter the area of the House: 
+213
+2020-03-07 00:38:49 INFO  App:25 - Select the above options : 
+2020-03-07 00:38:49 INFO  App:26 - Option1--> 1200INR if we use standard materials
+2020-03-07 00:38:49 INFO  App:27 - Option2--> 1500INR if we use above standard materials
+2020-03-07 00:38:49 INFO  App:28 - Option3--> 2200INR if we use high  standard materials
+2020-03-07 00:38:49 INFO  App:29 - Option4--> 2500INR if we use standard materials and fully automated home
+4
+2020-03-07 00:38:53 INFO  App:44 - Total estimated cost of the house is 532500.0
+2020-03-07 00:38:53 INFO  App:47 - The Simple Interest is 0.63
+2020-03-07 00:38:53 INFO  App:48 - The Compound Interest is 0.84
